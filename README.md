@@ -8,12 +8,12 @@ This project demonstrates best practices for building modern APIs with TypeScrip
 ---
 
 ## ✨ Features
-- 🔐 **Authentication**: JWT-based login and role-based access control
-- 📦 **CRUD Operations**: Create, Read, Update, Delete with validation
-- 🌐 **GraphQL Endpoint**: Flexible queries alongside REST endpoints
-- 🧪 **Testing**: Unit and integration tests with Jest + Supertest
-- 🗄️ **Database Support**: PostgreSQL or MongoDB integration
-- 📑 **Documentation**: API docs with Swagger/OpenAPI
+- 🔐 **Authentication**: JWT-based login and role-based access control.
+- 📦 **CRUD Operations**: Create, Read, Update, Delete with validation.
+- 🌐 **GraphQL Endpoint**: Flexible queries alongside REST endpoints.
+- 🧪 **Testing**: Unit and integration tests with Jest + Supertest.
+- 🗄️ **Database Support**: PostgreSQL or MongoDB integration.
+- 📑 **Documentation**: API docs with Swagger/OpenAPI.
 
 ---
 
