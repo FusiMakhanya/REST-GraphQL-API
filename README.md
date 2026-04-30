@@ -18,20 +18,20 @@ This project demonstrates best practices for building modern APIs with TypeScrip
 ---
 
 ## 🛠️ Tech Stack
-- **Node.js + Express** (backend framework)
-- **TypeScript** (strong typing & maintainability)
-- **PostgreSQL / MongoDB** (database layer)
-- **GraphQL** (query language for APIs)
-- **Jest + Supertest** (testing framework)
+- **Node.js + Express** (backend framework).
+- **TypeScript** (strong typing & maintainability).
+- **PostgreSQL / MongoDB** (database layer).
+- **GraphQL** (query language for APIs).
+- **Jest + Supertest** (testing framework).
 
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js v18+
-- npm or yarn
-- PostgreSQL or MongoDB running locally
+- Node.js v18+.
+- npm or yarn.
+- PostgreSQL or MongoDB running locally.
 
 ### Installation
 ```bash
